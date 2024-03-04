@@ -1,5 +1,5 @@
 {
-  "name": "password-gen",
+  "name": "SecurePassGen",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
